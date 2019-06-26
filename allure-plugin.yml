@@ -1,0 +1,10 @@
+id: json-diff
+name: Json diff
+description: Some
+jsFiles:
+  - index.js
+  - jsondiffpatch.umd.min.js
+cssFiles:
+  - styles.css
+  - html.css
+  - annotated.css
